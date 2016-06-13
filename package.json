@@ -1,6 +1,6 @@
 {
   "name": "feedline-article-styles",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Article styles for Feedline RSS reader, adapted from Bootstrap v4",
   "main": "",
   "scripts": {},
