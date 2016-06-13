@@ -4,7 +4,6 @@
   "description": "Article styles for Feedline RSS reader, adapted from Bootstrap v4",
   "main": "",
   "scripts": {},
-  "author": "Josephus Paye II",
   "license": "MIT",
   "devDependencies": {
     "del": "^2.2.0",
