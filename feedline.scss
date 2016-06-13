@@ -6,7 +6,7 @@
  */
 
 // Variable overrides
-@import 'custom';
+@import 'variables';
 
 // Core variables and mixins
 @import "bootstrap/variables";
@@ -21,7 +21,7 @@
 @import "bootstrap/type";
 @import "bootstrap/images";
 @import "bootstrap/code";
-@import "bootstrap/tables";
+@import "custom/tables";
 
 // Components
 @import "bootstrap/responsive-embed";
