@@ -5,6 +5,11 @@
   "main": "",
   "scripts": {},
   "license": "MIT",
+  "files": [
+    "dist",
+    "LICENCE",
+    "README.md"
+  ],
   "devDependencies": {
     "del": "^2.2.0",
     "gulp": "^3.9.1",
